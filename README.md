@@ -19,3 +19,7 @@ This is a Rest Service developed using Spring boot to read and parse a file.
 	
 	Running this class will scan the applicatoin using component scan configuration and will expose the 
 	REST endpoint.
+
+## Test Results:
+
+https://github.com/aterati/FileParserApp/issues/1#issue-368459280
